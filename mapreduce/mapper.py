@@ -14,4 +14,4 @@ for word in words :
 # Reduce s tep , i . e . the i n p u t f o r r e d u c e r . py
 #
 # tab−d elimi t e d ; the t r i v i a l word count i s 1
-print ’%s\t%s ’ % (word, 1)
+print ’%s\t%s’ % (word, 1)
